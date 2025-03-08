@@ -2,6 +2,17 @@ lang:                  en
 title:                 Hydejack
 copyright:             © 2024. All rights reserved.
 
+remote_theme:          hydecorp/hydejack
+
+url:                   "https://username.github.io"
+baseurl:               "/repo-name"  # 필요에 따라 수정
+
+plugins:
+  - jekyll-remote-theme
+  - jekyll-seo-tag
+  - jekyll-sitemap
+  - jekyll-feed
+
 accent_image:          /assets/img/sidebar-bg.jpg
 accent_color:          rgb(79,177,186)
 theme_color:           rgb(25,55,71)
