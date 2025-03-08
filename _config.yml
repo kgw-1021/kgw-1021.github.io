@@ -4,8 +4,8 @@ copyright:             © 2024. All rights reserved.
 
 remote_theme:          hydecorp/hydejack
 
-url:                   "https://username.github.io"
-baseurl:               "/repo-name"  # 필요에 따라 수정
+url:                   "https://kgw-1021.github.io"
+baseurl:               ""  # 필요에 따라 수정
 
 plugins:
   - jekyll-remote-theme
